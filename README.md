@@ -1,2 +1,2 @@
 # Drum-Kit
-### Website Link: https://github.com/MdRayhanAhmed/Drum-Kit
+### Website Link: https://mdrayhanahmed.github.io/Drum-Kit/
